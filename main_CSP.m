@@ -5,6 +5,6 @@
 
     
    % Output: 
-   % W=Projection Matrix Channels*Channels
+   % W=Channels*Channels  % Projection Matrix 
    
 [W] = f_CSP(C1_Data,C2_Data);
